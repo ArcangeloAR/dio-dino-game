@@ -1,4 +1,4 @@
-##Jogo Dino Sonic##
+#Jogo Dino Sonic
 
 Olá! 
 
